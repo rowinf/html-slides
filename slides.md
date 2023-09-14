@@ -306,3 +306,5 @@ https://vanillaweather.com/
 
 
 .footnote[Slideshow created using [remark](http://github.com/gnab/remark).]
+---
+## Thanks!
